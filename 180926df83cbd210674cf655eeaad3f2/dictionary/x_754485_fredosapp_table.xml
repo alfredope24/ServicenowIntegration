@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4f79aedf83cbd210674cf655eeaad39e" label="table" max_length="40" name="x_754485_fredosapp_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Field1" max_length="40" name="field1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field2" max_length="40" name="field2" type="string"/>
+    </element>
+</database>
